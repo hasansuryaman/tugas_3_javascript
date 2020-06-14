@@ -2,4 +2,4 @@
 
 Function, Return, Parameter.
 
-![tugas3](tugas3.png)
+![tugas3](screen/tugas3.png)
